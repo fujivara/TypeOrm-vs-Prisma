@@ -1,7 +1,9 @@
-**Виконав:**
-*Студент 2-го курсу, групи ІМ-21:*
+**Виконали:**
+*Студенти 2-го курсу, групи ІМ-21:*
 
 <span padding-right:5em></span> **Скиба Марат** [Пошта: marat.skyba@gmail.com, [Телеграм](https://t.me/siniggami)]
+
+<span padding-right:5em></span> **Ярошенко Олександр** [Пошта: yaroshsasha960@gmail.com, [Телеграм](https://t.me/notnuff)]
 
 **Керівник**
 
